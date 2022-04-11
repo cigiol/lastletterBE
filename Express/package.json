@@ -1,0 +1,24 @@
+{
+  "name": "firstexperience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "cigi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.1",
+    "free-translate": "^0.4.0",
+    "mongodb": "^4.2.1",
+    "socket.io": "^2.3.0",
+    "translate": "^1.4.1",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
